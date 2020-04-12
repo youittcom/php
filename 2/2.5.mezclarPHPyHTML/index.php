@@ -47,3 +47,23 @@ $hora = date("H:i:s"); // hora actual
 /*
  * Ejemplo 2: pagina generada en su totalidad por codigo PHP
  */
+//declaración de variables que se utilizarán más adelante
+$nombre = 'Santi';
+$titulo_pagina = 'Ediciones ENI presentan...';
+$dia = date("d/n/Y"); //fecha actual
+$hora = date("H:i:s");//Hora actual
+echo '<!DOCTYPE html>';
+echo '<html xmlns = "http://www.w3.org/1999/xhtml" lang="es">';
+echo '<head><title>zdcsd</title>';
+echo '<meta charset="UTF-8">';
+echo '<title>$titulo_pagina</title>';
+echo '</head>';
+echo '<body>';
+echo '<p>';
+echo "¡Hola <b>$nombre</b>!<br>";
+echo "Hoy estamos a dia $dia, son las $hora";
+echo '</p>';
+echo '</body>';
+echo '</html>';
+?>
+<a href="../../index.php">VOLVER</a>
