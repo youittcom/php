@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76356da9-da06-4c88-ac13-d8ba33aab7c9" name="Default Changelist" comment="" />
+    <list default="true" id="76356da9-da06-4c88-ac13-d8ba33aab7c9" name="Default Changelist" comment="puntos del capítulo 3">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.configuracionPHP/3.1.archivoPHPini/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/santi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/santi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.1.etiquetasPHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.1.etiquetasPHP/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.2.funcionECHO/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.2.funcionECHO/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.3.separadorDeInstrucciones/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.3.separadorDeInstrucciones/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.4.comentarios/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.4.comentarios/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.5.mezclarPHPyHTML/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.5.mezclarPHPyHTML/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.6.normasDeDenominacion/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.6.normasDeDenominacion/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.7.ejercicio1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.7.ejercicio1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +39,11 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aOzrE1Al29Mu74OeoK6rZzly1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -44,7 +62,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -62,27 +80,63 @@
       <option name="presentableId" value="Default" />
       <updated>1586621624892</updated>
       <workItem from="1586621626058" duration="5007000" />
-      <workItem from="1586678441208" duration="4662000" />
+      <workItem from="1586678441208" duration="12182000" />
     </task>
+    <task id="LOCAL-00001" summary="puntos del capítulo 2">
+      <created>1586689654494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586689654494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="puntos del capítulo 2">
+      <created>1586689696256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586689696256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="puntos del capítulo 2" />
+    <MESSAGE value="puntos del capítulo 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="puntos del capítulo 3" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="542" y="197" width="824" height="684" key="#CLI_Interpreters" timestamp="1586716069943">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="542" y="197" width="824" height="684" key="#CLI_Interpreters/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716069943" />
     <state x="2475" y="181" width="800" height="677" key="#Inspections" timestamp="1586625728142">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="181" width="800" height="677" key="#Inspections/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1586625728142" />
-    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog" timestamp="1586682338214">
+    <state x="511" y="98" width="887" height="882" key="CommitChangelistDialog2" timestamp="1586716837038">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586682338214" />
+    <state x="511" y="98" width="887" height="882" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716837038" />
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586716027661">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716027661" />
+    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog" timestamp="1586706054122">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586706054122" />
     <state x="2673" y="444" width="404" height="151" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1586625828390" />
-    <state x="441" y="174" key="SettingsEditor" timestamp="1586683013078">
+    <state x="441" y="174" key="SettingsEditor" timestamp="1586716070971">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="441" y="174" key="SettingsEditor/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586683013078" />
+    <state x="441" y="174" key="SettingsEditor/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716070971" />
+    <state x="555" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1586689704851">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="555" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586689704851" />
     <state x="2528" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586678494803">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

@@ -4,26 +4,51 @@
       <w>acceso</w>
       <w>aceptan</w>
       <w>aconsejable</w>
+      <w>actualmente</w>
       <w>adelante</w>
+      <w>adivinado</w>
+      <w>algo</w>
+      <w>algunos</w>
+      <w>anuladas</w>
+      <w>apagina</w>
       <w>apertura</w>
+      <w>aplica</w>
+      <w>aplicar</w>
       <w>archivo</w>
+      <w>archivos</w>
+      <w>aspectos</w>
       <w>aunque</w>
       <w>añadir</w>
+      <w>bajo</w>
+      <w>bajos</w>
       <w>basan</w>
       <w>bastante</w>
+      <w>bien</w>
+      <w>bienvenido</w>
+      <w>blanco</w>
       <w>bloque</w>
       <w>básica</w>
+      <w>búsqueda</w>
       <w>cadena</w>
       <w>cadenas</w>
+      <w>capítulo</w>
       <w>caracter</w>
       <w>caracteres</w>
+      <w>cargar</w>
+      <w>casos</w>
       <w>cerramos</w>
       <w>cierre</w>
       <w>codigo</w>
       <w>comentarios</w>
+      <w>comenzando</w>
+      <w>comportamiento</w>
+      <w>comprendido</w>
       <w>comprensible</w>
+      <w>comprensión</w>
       <w>común</w>
+      <w>configuracion</w>
       <w>configuración</w>
+      <w>constante</w>
       <w>contener</w>
       <w>contiene</w>
       <w>cual</w>
@@ -31,29 +56,52 @@
       <w>cuando</w>
       <w>código</w>
       <w>cógido</w>
+      <w>debebrá</w>
       <w>deben</w>
+      <w>deberá</w>
       <w>declaración</w>
+      <w>definidos</w>
+      <w>denominacion</w>
+      <w>denominación</w>
+      <w>desarrollar</w>
+      <w>desde</w>
       <w>desplegado</w>
       <w>después</w>
       <w>dicho</w>
       <w>diferencia</w>
       <w>directiva</w>
+      <w>directivas</w>
+      <w>directorio</w>
       <w>documento</w>
       <w>donde</w>
       <w>ediciones</w>
       <w>ejecución</w>
       <w>ejemplo</w>
       <w>ejemplos</w>
+      <w>ejercicio</w>
+      <w>empezar</w>
+      <w>encabezado</w>
+      <w>encabezados</w>
+      <w>encontrar</w>
       <w>enfoques</w>
+      <w>entender</w>
+      <w>entendiendo</w>
+      <w>entidad</w>
       <w>entonces</w>
       <w>entra</w>
+      <w>entre</w>
       <w>enviada</w>
       <w>envía</w>
+      <w>escriba</w>
       <w>escribir</w>
       <w>escritos</w>
       <w>escritura</w>
+      <w>espacios</w>
+      <w>especiales</w>
+      <w>establecidas</w>
       <w>estamos</w>
       <w>estar</w>
+      <w>estas</w>
       <w>esto</w>
       <w>estos</w>
       <w>estrucutra</w>
@@ -64,8 +112,10 @@
       <w>etiquetas</w>
       <w>excepción</w>
       <w>existen</w>
+      <w>explicación</w>
       <w>explicativos</w>
       <w>explorador</w>
+      <w>extremadamente</w>
       <w>fecha</w>
       <w>fichero</w>
       <w>finalizar</w>
@@ -73,44 +123,66 @@
       <w>formas</w>
       <w>frases</w>
       <w>funcion</w>
+      <w>funcionan</w>
       <w>función</w>
+      <w>futuro</w>
       <w>generada</w>
+      <w>generalmente</w>
       <w>generarse</w>
       <w>generará</w>
       <w>genere</w>
+      <w>guiones</w>
+      <w>guión</w>
       <w>habilitada</w>
       <w>habilitar</w>
       <w>hacer</w>
+      <w>haya</w>
       <w>hola</w>
+      <w>ignoran</w>
       <w>ilegible</w>
       <w>incluidas</w>
       <w>incluir</w>
       <w>inclusiones</w>
       <w>incluya</w>
       <w>indice</w>
+      <w>inicialización</w>
+      <w>inicio</w>
       <w>insertar</w>
       <w>instrucciones</w>
       <w>instrucción</w>
       <w>integre</w>
+      <w>intenta</w>
       <w>introducir</w>
+      <w>letra</w>
+      <w>letras</w>
       <w>libro</w>
       <w>llamada</w>
+      <w>llamado</w>
       <w>llegar</w>
       <w>luego</w>
       <w>lugares</w>
       <w>línea</w>
       <w>líneas</w>
+      <w>mensajes</w>
       <w>mezclar</w>
+      <w>misitio</w>
       <w>misma</w>
+      <w>mismas</w>
       <w>mostramos</w>
       <w>mostrar</w>
+      <w>motivos</w>
       <w>mucho</w>
       <w>muchos</w>
       <w>muestra</w>
+      <w>muestre</w>
+      <w>mysite</w>
       <w>navegador</w>
+      <w>necesaria</w>
       <w>negrita</w>
       <w>ninguna</w>
       <w>nombre</w>
+      <w>normas</w>
+      <w>números</w>
       <w>observen</w>
       <w>ocupen</w>
       <w>omite</w>
@@ -118,51 +190,81 @@
       <w>ommitir</w>
       <w>opción</w>
       <w>operador</w>
+      <w>orden</w>
       <w>pagina</w>
+      <w>pedido</w>
       <w>permite</w>
+      <w>phprc</w>
+      <w>pini</w>
+      <w>poder</w>
       <w>podría</w>
       <w>poniendo</w>
       <w>posible</w>
       <w>presentan</w>
       <w>primera</w>
       <w>principios</w>
+      <w>probablemente</w>
       <w>programa</w>
       <w>propio</w>
       <w>puede</w>
+      <w>pueden</w>
+      <w>punto</w>
+      <w>puntos</w>
       <w>página</w>
       <w>páginas</w>
       <w>recomendada</w>
       <w>recomienda</w>
+      <w>reglas</w>
       <w>requiera</w>
       <w>respectivos</w>
+      <w>respete</w>
+      <w>responsable</w>
+      <w>resumen</w>
+      <w>ruta</w>
       <w>salida</w>
       <w>salto</w>
+      <w>santi</w>
+      <w>sapi</w>
+      <w>secciones</w>
       <w>sección</w>
+      <w>seguidamente</w>
       <w>segunda</w>
       <w>sentido</w>
       <w>separadas</w>
       <w>separador</w>
       <w>servidor</w>
+      <w>servidos</w>
+      <w>será</w>
       <w>sería</w>
       <w>siempre</w>
+      <w>significar</w>
       <w>sigue</w>
+      <w>siguen</w>
+      <w>siguiendo</w>
+      <w>siguiente</w>
       <w>siguientes</w>
+      <w>silencio</w>
+      <w>silenciosamente</w>
       <w>sintaxis</w>
       <w>sintaxtis</w>
+      <w>solamente</w>
       <w>supone</w>
       <w>sóla</w>
       <w>sólo</w>
       <w>también</w>
       <w>tantas</w>
       <w>tanto</w>
+      <w>tener</w>
       <w>tengan</w>
       <w>texto</w>
+      <w>tiempo</w>
       <w>tiene</w>
       <w>tipo</w>
       <w>tipos</w>
       <w>titulo</w>
       <w>todas</w>
       <w>totalidad</w>
+      <w>ubicaciones</w>
       <w>usar</w>
       <w>usuario</w>
       <w>utilizando</w>
@@ -171,7 +273,10 @@
       <w>varios</w>
       <w>vaya</w>
       <w>versión</w>
+      <w>visualización</w>
       <w>volver</w>
+      <w>winnt</w>
+      <w>zdcsd</w>
       <w>último</w>
       <w>única</w>
     </words>
