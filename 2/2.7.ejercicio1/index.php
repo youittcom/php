@@ -7,3 +7,5 @@
 //por motivos de comprensión, el codigo pedido se va a desarrollar en estas mismas líneas
 echo "Hola PHP<br>"; //esta sería la línea 1 del script
 echo "Bienvenido a misitio.com"; //esta sería la segunda linea del script
+?>
+<a href="../../index.php">VOLVER</a>
