@@ -32,6 +32,11 @@
                 <li><a href="3.configuracionPHP/3.3.juegoDeCaracteres/index.php"> 3.3 Juego de Caracteres</a></li>
 
             </ul>
+            <h3>4. PHP desde la linea de comandos.</h3>
+            <ul>
+                <li><a href="4.PHPdesdeLineaDeComandos/4.1.phpDesdeLineaDeComandos/index.php"> 4.1.PHP desde la linea de Comandos</a></li>
+
+            </ul>
 		</li>
 	</ul>
 </div>
