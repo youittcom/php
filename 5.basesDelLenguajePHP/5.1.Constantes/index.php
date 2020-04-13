@@ -19,4 +19,9 @@ echo "Constantes:<br><br>
         ayuda de una expresión, pero que utiliza únicamente valores literales, constantes y operadores(no llamadas de función,<br>
         ni variables).<br>
         Una vez creada, una constante no se puede modificar, ni por una nueva llamada a 'define()'(devuelve FALSE y deja<br>
-        el valor de la constante inalterado), ni por asignación directa(genera un error de análisis de la secuencia de comandos).";
+        el valor de la constante inalterado), ni por asignación directa(genera un error de análisis de la secuencia de comandos).<br><br>";
+?>
+<a href="../../index.php">VOLVER</a>
+<?php
+//ejemplo
+    //definimos una constante cuyo nombre es sensible a mayúsculas y minúsculas
