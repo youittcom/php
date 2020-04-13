@@ -44,6 +44,7 @@
       <w>cerramos</w>
       <w>cierre</w>
       <w>codigo</w>
+      <w>comandos</w>
       <w>comentarios</w>
       <w>comenzando</w>
       <w>comportamiento</w>
@@ -62,10 +63,12 @@
       <w>cuando</w>
       <w>código</w>
       <w>cógido</w>
+      <w>datos</w>
       <w>debebrá</w>
       <w>deben</w>
       <w>deberá</w>
       <w>declaración</w>
+      <w>defecto</w>
       <w>definidos</w>
       <w>denominacion</w>
       <w>denominación</w>
@@ -104,6 +107,7 @@
       <w>entra</w>
       <w>entre</w>
       <w>enviada</w>
+      <w>enviado</w>
       <w>enviroment</w>
       <w>envía</w>
       <w>escriba</w>
@@ -112,6 +116,7 @@
       <w>escritura</w>
       <w>espacios</w>
       <w>especiales</w>
+      <w>especialmente</w>
       <w>establecidas</w>
       <w>estamos</w>
       <w>estar</w>
@@ -147,10 +152,12 @@
       <w>generarse</w>
       <w>generará</w>
       <w>genere</w>
+      <w>guardando</w>
       <w>guiones</w>
       <w>guión</w>
       <w>habilitada</w>
       <w>habilitar</w>
+      <w>hace</w>
       <w>hacer</w>
       <w>haya</w>
       <w>hola</w>
@@ -172,7 +179,9 @@
       <w>instrucción</w>
       <w>integre</w>
       <w>intenta</w>
+      <w>intercambios</w>
       <w>introducir</w>
+      <w>juego</w>
       <w>letra</w>
       <w>letras</w>
       <w>libro</w>
@@ -184,6 +193,7 @@
       <w>lugares</w>
       <w>línea</w>
       <w>líneas</w>
+      <w>mediante</w>
       <w>mensajes</w>
       <w>mezclar</w>
       <w>misitio</w>
@@ -242,6 +252,7 @@
       <w>puntos</w>
       <w>página</w>
       <w>páginas</w>
+      <w>recomedable</w>
       <w>recomendada</w>
       <w>recomienda</w>
       <w>reglas</w>
@@ -259,6 +270,7 @@
       <w>sapi</w>
       <w>secciones</w>
       <w>sección</w>
+      <w>secuencia</w>
       <w>seguidamente</w>
       <w>segunda</w>
       <w>sentido</w>
@@ -302,6 +314,7 @@
       <w>ubicaciones</w>
       <w>usar</w>
       <w>usuario</w>
+      <w>utiliza</w>
       <w>utilizando</w>
       <w>utilizar</w>
       <w>utilizarán</w>
@@ -316,6 +329,7 @@
       <w>zdcsd</w>
       <w>ésta</w>
       <w>éstas</w>
+      <w>éste</w>
       <w>último</w>
       <w>única</w>
       <w>útiles</w>
