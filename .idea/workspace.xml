@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76356da9-da06-4c88-ac13-d8ba33aab7c9" name="Default Changelist" comment="puntos del capítulo 3">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.configuracionPHP/3.1.archivoPHPini/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.configuracionPHP/3.2.informacionSobreLaConfiguracion/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/santi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/santi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.1.etiquetasPHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.1.etiquetasPHP/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.2.funcionECHO/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.2.funcionECHO/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.3.separadorDeInstrucciones/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.3.separadorDeInstrucciones/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.4.comentarios/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.4.comentarios/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.5.mezclarPHPyHTML/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.5.mezclarPHPyHTML/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.6.normasDeDenominacion/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.6.normasDeDenominacion/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.7.ejercicio1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.ESTRUCTURApaginaPHP/2.7.ejercicio1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.configuracionPHP/3.1.archivoPHPini/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/3.configuracionPHP/3.1.archivoPHPini/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +74,7 @@
       <updated>1586621624892</updated>
       <workItem from="1586621626058" duration="5007000" />
       <workItem from="1586678441208" duration="12182000" />
+      <workItem from="1586763590536" duration="2429000" />
     </task>
     <task id="LOCAL-00001" summary="puntos del capítulo 2">
       <created>1586689654494</created>
@@ -116,30 +110,30 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="181" width="800" height="677" key="#Inspections/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1586625728142" />
-    <state x="511" y="98" width="887" height="882" key="CommitChangelistDialog2" timestamp="1586716837038">
+    <state x="511" y="98" width="887" height="882" key="CommitChangelistDialog2" timestamp="1586716893658">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="511" y="98" width="887" height="882" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716837038" />
+    <state x="511" y="98" width="887" height="882" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716893658" />
     <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586716027661">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716027661" />
-    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog" timestamp="1586706054122">
+    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog" timestamp="1586764370114">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586706054122" />
+    <state x="753" y="433" width="404" height="151" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586764370114" />
     <state x="2673" y="444" width="404" height="151" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1586625828390" />
     <state x="441" y="174" key="SettingsEditor" timestamp="1586716070971">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="441" y="174" key="SettingsEditor/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716070971" />
-    <state x="555" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1586689704851">
+    <state x="555" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1586716901623">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="555" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586689704851" />
-    <state x="2528" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586678494803">
+    <state x="555" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1586716901623" />
+    <state x="2528" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586763742706">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2528" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1586678494803" />
+    <state x="2528" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1586763742706" />
   </component>
 </project>

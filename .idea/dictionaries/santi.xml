@@ -18,22 +18,27 @@
       <w>archivos</w>
       <w>aspectos</w>
       <w>aunque</w>
+      <w>autores</w>
       <w>añadir</w>
       <w>bajo</w>
       <w>bajos</w>
       <w>basan</w>
+      <w>basta</w>
       <w>bastante</w>
       <w>bien</w>
       <w>bienvenido</w>
       <w>blanco</w>
       <w>bloque</w>
+      <w>booleano</w>
       <w>básica</w>
       <w>búsqueda</w>
       <w>cadena</w>
       <w>cadenas</w>
+      <w>cantidad</w>
       <w>capítulo</w>
       <w>caracter</w>
       <w>caracteres</w>
+      <w>cargados</w>
       <w>cargar</w>
       <w>casos</w>
       <w>cerramos</w>
@@ -49,6 +54,7 @@
       <w>configuracion</w>
       <w>configuración</w>
       <w>constante</w>
+      <w>constantes</w>
       <w>contener</w>
       <w>contiene</w>
       <w>cual</w>
@@ -65,13 +71,18 @@
       <w>denominación</w>
       <w>desarrollar</w>
       <w>desde</w>
+      <w>deseada</w>
       <w>desplegado</w>
       <w>después</w>
+      <w>detodas</w>
+      <w>devuelve</w>
       <w>dicho</w>
       <w>diferencia</w>
       <w>directiva</w>
       <w>directivas</w>
       <w>directorio</w>
+      <w>dispone</w>
+      <w>disponible</w>
       <w>documento</w>
       <w>donde</w>
       <w>ediciones</w>
@@ -86,11 +97,14 @@
       <w>enfoques</w>
       <w>entender</w>
       <w>entendiendo</w>
+      <w>entero</w>
       <w>entidad</w>
       <w>entonces</w>
+      <w>entorno</w>
       <w>entra</w>
       <w>entre</w>
       <w>enviada</w>
+      <w>enviroment</w>
       <w>envía</w>
       <w>escriba</w>
       <w>escribir</w>
@@ -107,6 +121,7 @@
       <w>estrucutra</w>
       <w>está</w>
       <w>están</w>
+      <w>esté</w>
       <w>estén</w>
       <w>etiqueta</w>
       <w>etiquetas</w>
@@ -124,6 +139,7 @@
       <w>frases</w>
       <w>funcion</w>
       <w>funcionan</w>
+      <w>funciones</w>
       <w>función</w>
       <w>futuro</w>
       <w>generada</w>
@@ -138,6 +154,7 @@
       <w>hacer</w>
       <w>haya</w>
       <w>hola</w>
+      <w>iformación</w>
       <w>ignoran</w>
       <w>ilegible</w>
       <w>incluidas</w>
@@ -145,9 +162,12 @@
       <w>inclusiones</w>
       <w>incluya</w>
       <w>indice</w>
+      <w>informacion</w>
+      <w>información</w>
       <w>inicialización</w>
       <w>inicio</w>
       <w>insertar</w>
+      <w>instalado</w>
       <w>instrucciones</w>
       <w>instrucción</w>
       <w>integre</w>
@@ -156,6 +176,7 @@
       <w>letra</w>
       <w>letras</w>
       <w>libro</w>
+      <w>licencia</w>
       <w>llamada</w>
       <w>llamado</w>
       <w>llegar</w>
@@ -168,6 +189,7 @@
       <w>misitio</w>
       <w>misma</w>
       <w>mismas</w>
+      <w>momento</w>
       <w>mostramos</w>
       <w>mostrar</w>
       <w>motivos</w>
@@ -176,14 +198,18 @@
       <w>muestra</w>
       <w>muestre</w>
       <w>mysite</w>
+      <w>módulos</w>
+      <w>naturaleza</w>
       <w>navegador</w>
       <w>necesaria</w>
       <w>negrita</w>
       <w>ninguna</w>
       <w>nombre</w>
       <w>normas</w>
+      <w>número</w>
       <w>números</w>
       <w>observen</w>
+      <w>obtener</w>
       <w>ocupen</w>
       <w>omite</w>
       <w>omitir</w>
@@ -198,8 +224,12 @@
       <w>pini</w>
       <w>poder</w>
       <w>podría</w>
+      <w>poner</w>
       <w>poniendo</w>
       <w>posible</w>
+      <w>predefinida</w>
+      <w>predefinidas</w>
+      <w>predeterminado</w>
       <w>presentan</w>
       <w>primera</w>
       <w>principios</w>
@@ -215,7 +245,9 @@
       <w>recomendada</w>
       <w>recomienda</w>
       <w>reglas</w>
+      <w>relacionadas</w>
       <w>requiera</w>
+      <w>respectivamente</w>
       <w>respectivos</w>
       <w>respete</w>
       <w>responsable</w>
@@ -247,6 +279,7 @@
       <w>silenciosamente</w>
       <w>sintaxis</w>
       <w>sintaxtis</w>
+      <w>sobre</w>
       <w>solamente</w>
       <w>supone</w>
       <w>sóla</w>
@@ -262,13 +295,17 @@
       <w>tipo</w>
       <w>tipos</w>
       <w>titulo</w>
+      <w>toda</w>
       <w>todas</w>
       <w>totalidad</w>
+      <w>través</w>
       <w>ubicaciones</w>
       <w>usar</w>
       <w>usuario</w>
       <w>utilizando</w>
+      <w>utilizar</w>
       <w>utilizarán</w>
+      <w>valores</w>
       <w>varias</w>
       <w>varios</w>
       <w>vaya</w>
@@ -277,8 +314,11 @@
       <w>volver</w>
       <w>winnt</w>
       <w>zdcsd</w>
+      <w>ésta</w>
+      <w>éstas</w>
       <w>último</w>
       <w>única</w>
+      <w>útiles</w>
     </words>
   </dictionary>
 </component>

@@ -28,6 +28,8 @@
             <h3>3. Archivo Configuración PHP.ini</h3>
             <ul>
                 <li><a href="3.configuracionPHP/3.1.archivoPHPini/index.php"> 3.1 Archivo de configuracion PHP.ini</a></li>
+                <li><a href="3.configuracionPHP/3.2.informacionSobreLaConfiguracion/index.php"> 3.2 Informacion sobre la Configuración</a></li>
+
             </ul>
 		</li>
 	</ul>
