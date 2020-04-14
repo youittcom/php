@@ -11,6 +11,7 @@
       <w>administrativas</w>
       <w>algo</w>
       <w>algunos</w>
+      <w>anteriores</w>
       <w>anuladas</w>
       <w>análisis</w>
       <w>apagina</w>
@@ -49,6 +50,7 @@
       <w>casos</w>
       <w>cerramos</w>
       <w>cierre</w>
+      <w>claridad</w>
       <w>clave</w>
       <w>codigo</w>
       <w>comando</w>
@@ -62,6 +64,7 @@
       <w>común</w>
       <w>configuracion</w>
       <w>configuración</w>
+      <w>configuradas</w>
       <w>consola</w>
       <w>constante</w>
       <w>constantes</w>
@@ -77,6 +80,7 @@
       <w>cuyo</w>
       <w>código</w>
       <w>cógido</w>
+      <w>dará</w>
       <w>dato</w>
       <w>datos</w>
       <w>debebrá</w>
@@ -84,11 +88,14 @@
       <w>deberá</w>
       <w>declaración</w>
       <w>defecto</w>
+      <w>definida</w>
       <w>definidos</w>
+      <w>definimos</w>
       <w>definir</w>
       <w>deja</w>
       <w>denominacion</w>
       <w>denominación</w>
+      <w>dependerá</w>
       <w>desarrollar</w>
       <w>desarrollo</w>
       <w>desde</w>
@@ -100,6 +107,7 @@
       <w>devuelve</w>
       <w>dicho</w>
       <w>diferencia</w>
+      <w>diferenciarlas</w>
       <w>directa</w>
       <w>directiva</w>
       <w>directivas</w>
@@ -134,6 +142,7 @@
       <w>envía</w>
       <w>escalar</w>
       <w>escriba</w>
+      <w>escriben</w>
       <w>escribir</w>
       <w>escritos</w>
       <w>escritura</w>
@@ -192,6 +201,7 @@
       <w>iformación</w>
       <w>ignoran</w>
       <w>ilegible</w>
+      <w>imprimirlas</w>
       <w>inalterado</w>
       <w>incluidas</w>
       <w>incluir</w>
@@ -209,6 +219,7 @@
       <w>instrucción</w>
       <w>integre</w>
       <w>intenta</w>
+      <w>intentamos</w>
       <w>intercambios</w>
       <w>introducir</w>
       <w>juego</w>
@@ -227,11 +238,13 @@
       <w>línea</w>
       <w>líneas</w>
       <w>matriz</w>
+      <w>mayúsculas</w>
       <w>mediante</w>
       <w>memoria</w>
       <w>mensajes</w>
       <w>metodología</w>
       <w>mezclar</w>
+      <w>minúsculas</w>
       <w>misitio</w>
       <w>misma</w>
       <w>mismas</w>
@@ -253,7 +266,9 @@
       <w>necesaria</w>
       <w>negrita</w>
       <w>ninguna</w>
+      <w>nivel</w>
       <w>nombre</w>
+      <w>nombres</w>
       <w>normas</w>
       <w>nueva</w>
       <w>número</w>
@@ -284,6 +299,7 @@
       <w>poner</w>
       <w>poniendo</w>
       <w>posible</w>
+      <w>posibles</w>
       <w>predefinida</w>
       <w>predefinidas</w>
       <w>predeterminado</w>
@@ -306,6 +322,7 @@
       <w>recomienda</w>
       <w>reglas</w>
       <w>relacionadas</w>
+      <w>reportado</w>
       <w>requiera</w>
       <w>requiere</w>
       <w>reservada</w>
@@ -366,11 +383,15 @@
       <w>todas</w>
       <w>totalidad</w>
       <w>trabajando</w>
+      <w>tradicionalmente</w>
       <w>través</w>
       <w>ubicaciones</w>
+      <w>usando</w>
       <w>usar</w>
       <w>usuario</w>
       <w>utiliza</w>
+      <w>utilización</w>
+      <w>utilizamos</w>
       <w>utilizando</w>
       <w>utilizar</w>
       <w>utilizarán</w>
@@ -378,6 +399,7 @@
       <w>varias</w>
       <w>varios</w>
       <w>vaya</w>
+      <w>versiones</w>
       <w>versión</w>
       <w>verá</w>
       <w>visualización</w>

@@ -19,9 +19,23 @@ echo "Constantes:<br><br>
         ayuda de una expresión, pero que utiliza únicamente valores literales, constantes y operadores(no llamadas de función,<br>
         ni variables).<br>
         Una vez creada, una constante no se puede modificar, ni por una nueva llamada a 'define()'(devuelve FALSE y deja<br>
-        el valor de la constante inalterado), ni por asignación directa(genera un error de análisis de la secuencia de comandos).<br><br>";
+        el valor de la constante inalterado), ni por asignación directa(genera un error de análisis de la secuencia de comandos).<br><br>
+        Tradicionalmente los nombres de las constantes en PHP de escriben en mayúsculas para poder diferenciarlas con<br>
+        claridad.Si intentamos re-definir una constante que ya esté definida, nos dará un error de nivel E_NOTICE. Si utilizamos<br>
+        una constante que no esté definida, nos dará un error de nivel E_WARNING desde la version7.2(E_NOTICES en versiones anteriores)<br>
+        El nivel de error reportado dependerá de las directivas configuradas en el PHP.ini. ";
 ?>
 <a href="../../index.php">VOLVER</a>
 <?php
 //ejemplo
-    //definimos una constante cuyo nombre es sensible a mayúsculas y minúsculas
+//definimos una constante cuyo nombre es sensible a mayúsculas y minúsculas
+//2 posibles formas para definir una constante
+define('CONSTANTE1','valor que le demos a la constante1');
+const CONSTANTE_2 = 'valor de la constante 2';
+//para imprimirlas
+echo 'Constante 1 ='.CONSTANTE1.'<br>';
+echo 'Constante 2 ='.CONSTANTE_2.'<br>';
+//utilización de un expresión compleja para definir una
+//constante usando la funcion define()
+define('CONSTANTE_3',md5(uniqid(rand())));
+echo 'CONSTANTE 3 ='.CONSTANTE_3.'<br>';
