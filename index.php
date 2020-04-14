@@ -39,6 +39,8 @@
             <h3>5. Las bases del Lenguaje PHP.</h3>
             <ul>
                 <li><a href="5.basesDelLenguajePHP/5.1.Constantes/index.php"> 5.1 Constantes</a></li>
+                <li><a href="5.basesDelLenguajePHP/5.1.1.AlcanceDeLasConstantes/index.php"> 5.1.1 Alcance de las Constantes</a></li>
+
             </ul>
 		</li>
 	</ul>
